@@ -1,2 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<h1>Welcome to the weather page</h1>
+<nav>
+    <a href="/">Home</a>
+    <a href="/24hour">24-Hours</a>
+    <a href="/7days">7 days</a>
+</nav>
